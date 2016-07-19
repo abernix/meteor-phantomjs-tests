@@ -8,7 +8,7 @@ Package.describe({
 
 Npm.depends({
   'meteor-force-non-portable': '1.0.0',
-  'phantomjs-prebuilt': '2.1.7',
+  'phantomjs': '1.9.8',
 });
 
 Package.onUse(function (api) {
